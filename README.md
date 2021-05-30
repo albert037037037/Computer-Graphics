@@ -10,9 +10,9 @@
 > Draw some 3D models with Viewing Transformations
 Plus Lighting
 + Implememt 3 types of light sources
-    1. Directional light
-    2. Position light (Point light)
-    3. Spot light
+    a. Directional light
+    b. Position light (Point light)
+    c. Spot light
 + Interact and modify the light source in runtime.
 
 
